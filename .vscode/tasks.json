@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "command": "jbuilder",
+    "showOutput": "always",
+    "tasks": [
+        {
+            "taskName": "clean"
+        },
+        {
+            "taskName": "build"
+        }
+    ]
+}
